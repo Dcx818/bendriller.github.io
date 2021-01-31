@@ -43,7 +43,7 @@
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["EP/GP"],
+			"prio":["Btsstan","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -198,7 +198,7 @@
 			"wowID":"21690"
 		},
 		"Boots of the Fallen Hero":{
-			"prio":["Tanks w/o Chromatic","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"21688"
 		},
@@ -215,7 +215,7 @@
 	},
 	"Battleguard Sartura":{
 		"Badge of the Swarmguard":{
-			"prio":["Dill","Snydi(Wishlist?)","Warrior DPS","EP/GP"],
+			"prio":["Vesterx(1)","Snydi(Wishlist?)","Warrior DPS","EP/GP"],
 			"gp":"5",
 			"wowID":"21670"
 		},
@@ -292,7 +292,7 @@
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
-			"prio":["Dillmcpickle","Warriors/PvP","EP/GP"],
+			"prio":["Warriors/PvP","EP/GP"],
 			"gp":"6",
 			"wowID":"21664"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
-			"prio":["Warlock(shoulders)->Mages(boots)>Ret Pally","EP/GP"],
+			"prio":["Warlock(shoulders)","Mages(boots)","EP/GP"],
 			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
@@ -391,7 +391,7 @@
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
-			"prio":["Impactt","Healslol","Killstepp","DPS Warriors","EP/GP"],
+			"prio":["Healslol","Killstepp","DPS Warriors","EP/GP"],
 			"gp":"6",
 			"wowID":"21618"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Fruithunni","Blaziken","EP/GP"],
+			"prio":["Blaziken","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Blacklisted","Coxy","Mages/Warlocks","EP/GP"],
+			"prio":["Blacklisted","Coxxy","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -438,12 +438,12 @@
 			"wowID":"21599"
 		},
 		"Royal Scepter of Vek'lor":{
-			"prio":["Austeezy","Blacklisted","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"8",
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Sniped","Rogues->Feral->Fury","EP/GP"],
+			"prio":["Feral->Rogues->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Wildhealer","Jowsus","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -510,7 +510,7 @@
 			"wowID":"23558"
 		},
 		"Jom Gabbar":{
-			"prio":["Oph","Chiron","Huck","Hunters->Rogues->Warrior","EP/GP"],
+			"prio":["Hunters->Rogues->Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"23570"
 		},
@@ -525,19 +525,19 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Warrior TANKS->rogues->DPS Warrs","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
 		"Skin of the Great Sandworm":{
-			"prio":["Ret prio","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"20931"
 		}
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Caster=Healer=Hunters=Tanks, MDPS","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Tanks","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -562,7 +562,7 @@
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"22731"
 		},
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Mazzo","Lianli","Celesdea","Thrane","Kare","EP/GP"],
+			"prio":["Mazzo","Celesdea","Thrane","Kare","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"21583" 
 		},
 		"Dark Storm Gauntlets":{
-			"prio":["blondi","Rasberry","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"10",
 			"wowID":"21585" 
 		},
