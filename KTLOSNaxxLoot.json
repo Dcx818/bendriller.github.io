@@ -183,7 +183,7 @@
 			"wowID":"23070"
 		},
 		"Plated Abomination Ribcage":{
-			"prio":["Vajeen(1)","Vesterx(1)","LC","Fury->Tank","EP/GP"],
+			"prio":["Vajeen(1)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"23000"
 		},
@@ -259,7 +259,7 @@
 			"wowID":"23033"
 		},
 		"Legplates of Carnage":{
-			"prio":["Dill(1)","Healslol(1)","Fury Warr","EP/GP"],
+			"prio":["Healslol(1)","Fury Warr","EP/GP"],
 			"gp":"8",
 			"wowID":"23068"
 		},
