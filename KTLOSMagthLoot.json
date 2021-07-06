@@ -1,7 +1,7 @@
 {
 	"Magtheridon":{
 		"Magtheridon's Head":{
-			"prio":["EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"5",
 			"wowID":"32385"
 		},
