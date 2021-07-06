@@ -6,12 +6,12 @@
 			"wowID":"32385"
 		},
 		"Chestguard of the Fallen Defender":{
-			"prio":["EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"29753"
 		},
 		"Chestguard of the Fallen Champion":{
-			"prio":["EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"29754"
 		},
