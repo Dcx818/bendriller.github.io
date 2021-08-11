@@ -1,12 +1,12 @@
 {
 	"High King Maulgar":{
 		"Pauldrons of the Fallen Defender":{
-			"prio":["EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"29764"
 		},
 		"Pauldrons of the Fallen Champion":{
-			"prio":["EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"29763"
 		},
@@ -63,7 +63,7 @@
 			"wowID":"29766"
 		},
 		"Aldori Legacy Defender":{
-			"prio":["EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"12",
 			"wowID":"28825"
 		},
