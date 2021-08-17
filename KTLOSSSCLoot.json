@@ -1,369 +1,369 @@
 {
 	"Hydross the Unstable":{
 		"Band of Vile Aggression":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["PVP/Tank","EP/GP"],
+			"gp":"5",
 			"wowID":"33055"
 		},
 		"Blackfathom Warbands":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"30047"
 		},
 		"Boots of the Shifting Nightmare":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"30050"
 		},
 		"Brighthelm of Justice":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"30048"
 		},
 		"Fathomstone":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Lock","EP/GP"],
+			"gp":"5",
 			"wowID":"30049"
 		},
 		"Living Root of the Wildheart":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"30664"
 		},
 		"Pauldrons of the Wardancer":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Warrior/Ret","EP/GP"],
+			"gp":"6",
 			"wowID":"30053"
 		},
 		"Ranger-General's Chestguard":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Hunter/Enh","EP/GP"],
+			"gp":"6",
 			"wowID":"30054"
 		},
 		"Ring of Lethality":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Rogue/Enh/Hunter","EP/GP"],
+			"gp":"5",
 			"wowID":"30052"
 		},
 		"Robe of Hateful Echoes":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Caster DPS","EP/GP"],
+			"gp":"6",
 			"wowID":"30056"
 		},
 		"Scarab of Displacement":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Tanks","EP/GP"],
+			"gp":"4",
 			"wowID":"30629"
 		},
 		"Shoulderpads of the Stranger":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Enh/Ret/Warrior","EP/GP"],
+			"gp":"6",
 			"wowID":"30055"
 		},
 		"Wraps of Purification":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Healer","EP/GP"],
+			"gp":"6",
 			"wowID":"32516"
 		}
 	},
 	"The Lurker Below":{
 		"Ancestral Ring of Conquest":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Ret/Tanks","EP/GP"],
+			"gp":"5",
 			"wowID":"30061"
 		},
 		"Boots of Effortless Striking":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Hunter/Rogue/Enh","EP/GP"],
+			"gp":"5",
 			"wowID":"30060"
 		},
 		"Bracers of Eradication":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Warrior DPS","EP/GP"],
+			"gp":"6",
 			"wowID":"30057"
 		},
 		"Choker of Animalistic Fury":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Melee DPS","EP/GP"],
+			"gp":"5",
 			"wowID":"30059"
 		},
 		"Cord of Screaming Terrors":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Caster DPS","EP/GP"],
+			"gp":"5",
 			"wowID":"30064"
 		},
 		"Earring of Soulful Meditation":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Priest lol","EP/GP"],
+			"gp":"8",
 			"wowID":"30665"
 		},
 		"Glowing Breastplate of Truth":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Hpal","EP/GP"],
+			"gp":"6",
 			"wowID":"30065"
 		},
 		"Grove-Bands of Remulos":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Restos","EP/GP"],
+			"gp":"6",
 			"wowID":"30062"
 		},
 		"Mallet of the Tides":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Warrior Tanks","EP/GP"],
+			"gp":"14",
 			"wowID":"30058"
 		},
 		"Tempest-Strider Boots":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Healers","EP/GP"],
+			"gp":"6",
 			"wowID":"30066"
 		},
 		"The Seal of Danzalar":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["PVP Prio","EP/GP"],
+			"gp":"5",
 			"wowID":"33054"
 		},
 		"Velvet Boots of the Guardian":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Mage/Ele/Boom?","EP/GP"],
+			"gp":"6",
 			"wowID":"30067"
 		}
 	},
 	"Leotheras the Blind":{
 		"Gloves of the Vanquished Hero":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Mage(2pc)>Hunter>Lock","EP/GP"],
+			"gp":"6",
 			"wowID":"30241"
 		},
 		"Gloves of the Vanquished Champion":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"30239"
 		},
 		"Gloves of the Vanquished Defender":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Tanks>DPS>Heals","EP/GP"],
+			"gp":"7",
 			"wowID":"30240"
 		},
 		"Coral-Barbed Shoulderpads":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"30097"
 		},
 		"Fang of the Leviathan":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Warlocks>Prot Pallys","EP/GP"],
+			"gp":"14",
 			"wowID":"30095"
 		},
 		"Girdle of the Invulnerable":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Tanks","EP/GP"],
+			"gp":"6",
 			"wowID":"30096"
 		},
 		"Orca-Hide Boots":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"30092"
 		},
 		"True-Aim Stalker Bands":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Hunter/Enh","EP/GP"],
+			"gp":"6",
 			"wowID":"30091"
 		},
 		"Tsunami Talisman":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Warrior DPS/Enh","EP/GP"],
+			"gp":"8",
 			"wowID":"30627"
 		}
 	},
 	"Fathom-Lord Karathress":{
 		"Leggings of the Vanquished Hero":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Mage(2pc)>Warlock>Hunter","EP/GP"],
+			"gp":"7",
 			"wowID":"30247"
 		},
 		"Leggings of the Vanquished Champion":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"30245"
 		},
 		"Leggings of the Vanquished Defender":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Tanks>DPS>Healers","EP/GP"],
+			"gp":"7",
 			"wowID":"30246"
 		},
 		"Bloodsea Brigand's Vest":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Rogues","EP/GP"],
+			"gp":"7",
 			"wowID":"30101"
 		},
 		"Fathom-Brooch of the Tidewalker":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Shams","EP/GP"],
+			"gp":"5",
 			"wowID":"30663"
 		},
 		"Frayed Tether of the Drowned":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Warrior Tanks>Other Tanks","EP/GP"],
+			"gp":"6",
 			"wowID":"30099"
 		},
 		"Sextant of Unstable Currents":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Caster Memers","EP/GP"],
+			"gp":"5",
 			"wowID":"30626"
 		},
 		"Soul-Strider Boots":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Healers","EP/GP"],
+			"gp":"6",
 			"wowID":"30100"
 		},
 		"World Breaker":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["PVE>PVP","EP/GP"],
+			"gp":"10",
 			"wowID":"30090"
 		}
 		
 	},
 	"Morogrim Tidewalker":{
 		"Band of the Vigilant":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["PVP Healers","EP/GP"],
+			"gp":"5",
 			"wowID":"33058"
 		},
 		"Girdle of the Tidal Call":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Enh/Ret","EP/GP"],
+			"gp":"5",
 			"wowID":"30068"
 		},
 		"Gnarled Chestpiece of the Ancients":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Healers","EP/GP"],
+			"gp":"5",
 			"wowID":"30075"
 		},
 		"Illidari Shoulderpads":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Casters","EP/GP"],
+			"gp":"6",
 			"wowID":"30079"
 		},
 		"Luminescent Rod of the Naaru":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Priests","EP/GP"],
+			"gp":"6",
 			"wowID":"30080"
 		},
 		"Mantle of the Tireless Tracker":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Hunter/Enh","EP/GP"],
+			"gp":"4",
 			"wowID":"30085"
 		},
 		"Pauldrons of the Argent Sentinel":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Hpal","EP/GP"],
+			"gp":"4",
 			"wowID":"30084"
 		},
 		"Pendant of the Lost Ages":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["PVP","EP/GP"],
+			"gp":"5",
 			"wowID":"30008"
 		},
 		"Razor-Scale Battlecloak":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["Ret>","EP/GP"],
 			"gp":"",
 			"wowID":"30098"
 		},
 		"Ring of Sundered Souls":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Tanks","EP/GP"],
+			"gp":"5",
 			"wowID":"30083"
 		},
 		"Serpent-Coil Braid":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Mage ofc","EP/GP"],
+			"gp":"8",
 			"wowID":"30720"
 		},
 		"Talon of Azshara":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Rogue>Warrior","EP/GP"],
+			"gp":"14",
 			"wowID":"30082"
 		},
 		"Warboots of Obliteration":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Warr DPS/Ret","EP/GP"],
+			"gp":"6",
 			"wowID":"30081"
 		}
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Mage(2pc)","Non-Engi Warlocks","Hunters","EP/GP"],
+			"gp":"7",
 			"wowID":"30244"
 		},
 		"Helm of the Vanquished Champion":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"30242"
 		},
 		"Helm of the Vanquished Defender":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Non-Engi Tanks","Non-Engi DPS","Non-Engi Healers","EP/GP"],
+			"gp":"7",
 			"wowID":"30243"
 		},
 		"Belt of One-Hundred Deaths":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Rogue/Enh/Ret/Warrior","EP/GP"],
+			"gp":"8",
 			"wowID":"30106"
 		},
 		"Cobra-Lash Boots":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Hunter","EP/GP"],
+			"gp":"7",
 			"wowID":"30104"
 		},
 		"Coral Band of the Revived":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Healers","EP/GP"],
+			"gp":"6",
 			"wowID":"30110"
 		},
 		"Fang of Vashj":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Rogue/Warr Tank","EP/GP"],
+			"gp":"12",
 			"wowID":"30103"
 		},
 		"Glorious Gauntlets of Crestfall":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Hpal","EP/GP"],
+			"gp":"7",
 			"wowID":"30112"
 		},
 		"Krakken-Heart Breastplate":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Warr/Ret","EP/GP"],
+			"gp":"5",
 			"wowID":"30102"
 		},
 		"Lightfathom Scepter":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Healers","EP/GP"],
+			"gp":"14",
 			"wowID":"30108"
 		},
 		"Prism of Inner Calm":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["IDK","EP/GP"],
+			"gp":"5",
 			"wowID":"30621"
 		},
 		"Ring of Endless Coils":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Lock/Boom/Shadow/Fire Mage/Ele","EP/GP"],
+			"gp":"6",
 			"wowID":"30109"
 		},
 		"Runetotem's Mantle":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Healers","EP/GP"],
+			"gp":"7",
 			"wowID":"30111"
 		},
 		"Serpent Spine Longbow":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Hunters","EP/GP"],
+			"gp":"14(Hunt) 6(Melee",
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
-			"prio":["Rasbeary","EP/GP"],
-			"gp":"",
+			"prio":["Warlock","Mage","EP/GP"],
+			"gp":"7",
 			"wowID":"30107"
 		}
 	}
