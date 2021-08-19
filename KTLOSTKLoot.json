@@ -1,0 +1,317 @@
+{
+	"Patterns":{
+		"Pattern: Belt of Natural Power":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30301"
+		},
+		"Pattern: Boots of Blasting":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30282"
+		},
+		"Pattern: Boots of Natural Grace":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30305"
+		},
+		"Pattern: Boots of the Crimson Hawk":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30307"
+		},
+		"Pattern: Boots of the Long Road":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30283"
+		},
+		"Pattern: Hurricane Boots":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30308"
+		},
+		"Plans: Boots of the Protector":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30323"
+		},
+		"Plans: Red Havoc Boots":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30324"
+		}
+	},
+	"Al'ar":{
+		"Arcanite Steam-Pistol":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29949"
+		},
+		"Band of Al'ar":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29922"
+		},
+		"Claw of the Phoenix":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29948"
+		},
+		"Fire Crest Breastplate":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29921"
+		},
+		"Gloves of the Searing Grip":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29947"
+		},
+		"Mindstorm Wristbands":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29918"
+		},
+		"Netherbane":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29924"
+		},
+		"Phoenix-Ring of Rebirth":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29920"
+		},
+		"Phoenix-Wing Cloak":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29925"
+		},
+		"Talisman of the Sun King":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29923"
+		},
+		"Talon of Al'ar":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30448"
+		},
+		"Talon of the Phoenix":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32944"
+		},
+		"Tome of Fiery Redemption":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30447"
+		}
+	},
+	"Void Reaver":{
+		"Pauldrons of the Vanquished Champion":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30248"
+		},
+		"Pauldrons of the Vanquished Defender":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30249"
+		},
+		"Pauldrons of the Vanquished Hero":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30250"
+		},
+		"Cowl of the Grand Engineer":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29986"
+		},
+		"Fel Reaver's Piston":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30619"
+		},
+		"Fel-Steel Warhelm":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29983"
+		},
+		"Girdle of Zaetar":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29984"
+		},
+		"Void Reaver Greaves":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29985"
+		},
+		"Warp-Spring Coil":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30450"
+		},
+		"Wristguards of Determination":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32515"
+		}
+	},
+	"High Astromancer Solarian":{
+		"Boots of the Resilient":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32267"
+		},
+		"Ethereum Life-Staff":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29981"
+		},
+		"Girdle of the Righteous Path":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29965"
+		},
+		"Greaves of the Bloodwarder":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29950"
+		},
+		"Heatrazor":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29962"
+		},
+		"Solarian's Sapphire":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30446"
+		},
+		"Star-Soul Breeches":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29977"
+		},
+		"Star-Strider Boots":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29951"
+		},
+		"Trousers of the Astromancer":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29972"
+		},
+		"Vambracers of Ending":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29966"
+		},
+		"Void Star Talisman":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30449"
+		},
+		"Wand of the Forgotten Star":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29982"
+		},
+		"Worldstorm Gauntlets":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29976"
+		}
+	},
+	"Kael'thas Sunstrider":{
+		"Ashes of Al'ar":{
+			"prio":["GBID"],
+			"gp":"",
+			"wowID":"32458"
+		},
+		"Verdant Sphere":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32405"
+		},
+		"Chestguard of the Vanquished Hero":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30238"
+		},
+		"Chestguard of the Vanquished Champion":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30236"
+		},
+		"Chestguard of the Vanquished Defender":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30237"
+		},
+		"Band of the Ranger-General":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29997"
+		},
+		"Crown of the Sun":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29990"
+		},
+		"Gauntlets of the Sun King":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29987"
+		},
+		"Leggings of Murderous Intent":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29995"
+		},
+		"Rod of the Sun King":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29996"
+		},
+		"Royal Cloak of the Sunstriders":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29992"
+		},
+		"Royal Guantlets of Silvermoon":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29998"
+		},
+		"Sunhawk Leggings":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29991"
+		},
+		"Sunshower Light Cloak":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29989"
+		},
+		"Thalassian Wildercloak":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29994"
+		},
+		"The Nexus Key":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29988"
+		},
+		"Twinblade of the Phoenix":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29993"
+		}
+	}
+}
