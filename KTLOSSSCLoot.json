@@ -41,7 +41,7 @@
 			"wowID":"30054"
 		},
 		"Ring of Lethality":{
-			"prio":["Rogue/Enh/Hunter","EP/GP"],
+			"prio":["Rogue","Enh/Hunter","EP/GP"],
 			"gp":"5",
 			"wowID":"30052"
 		},
@@ -56,7 +56,7 @@
 			"wowID":"30629"
 		},
 		"Shoulderpads of the Stranger":{
-			"prio":["Enh/Ret/Warrior","EP/GP"],
+			"prio":["Enh/Ret","Warrior/rogue","EP/GP"],
 			"gp":"6",
 			"wowID":"30055"
 		},
@@ -165,12 +165,12 @@
 			"wowID":"30092"
 		},
 		"True-Aim Stalker Bands":{
-			"prio":["Hunter/Enh","EP/GP"],
+			"prio":["Enh","Hunters waiting for Ending","EP/GP"],
 			"gp":"6",
 			"wowID":"30091"
 		},
 		"Tsunami Talisman":{
-			"prio":["Warrior DPS/Enh","EP/GP"],
+			"prio":["Grim(1)","Warrior DPS/Enh","EP/GP"],
 			"gp":"8",
 			"wowID":"30627"
 		}
