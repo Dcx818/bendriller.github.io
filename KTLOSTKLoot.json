@@ -63,17 +63,17 @@
 			"wowID":"29921"
 		},
 		"Gloves of the Searing Grip":{
-			"prio":["Warrior/Enh/Ret/Feral/Tank","EP/GP"],
+			"prio":["dps war > Ret/Feral/Tank","EP/GP"],
 			"gp":"6",
 			"wowID":"29947"
 		},
 		"Mindstorm Wristbands":{
-			"prio":["Warlock/Mage/Ele/Boomkin","EP/GP"],
+			"prio":["cloth dps>caster dps","EP/GP"],
 			"gp":"6",
 			"wowID":"29918"
 		},
 		"Netherbane":{
-			"prio":["EP/GP"],
+			"prio":["Enh/Surv Hunter/Fury War", "EP/GP"],
 			"gp":"10",
 			"wowID":"29924"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"30448"
 		},
 		"Talon of the Phoenix":{
-			"prio":["Enhance","Hunters","EP/GP"],
+			"prio":["Enhance,BM Hunters","EP/GP"],
 			"gp":"14",
 			"wowID":"32944"
 		},
@@ -110,12 +110,12 @@
 	},
 	"Void Reaver":{
 		"Pauldrons of the Vanquished Champion":{
-			"prio":["EP/GP"],
+			"prio":["rogue>holy pally", "EP/GP"],
 			"gp":"7",
 			"wowID":"30248"
 		},
 		"Pauldrons of the Vanquished Defender":{
-			"prio":["Tank>DPS>Healer","EP/GP"],
+			"prio":["Tank>Boomkin>Holy Priest>DPS>Healer","EP/GP"],
 			"gp":"7",
 			"wowID":"30249"
 		},
