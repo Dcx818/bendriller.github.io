@@ -94,7 +94,7 @@
 		},
 		"Earring of Soulful Meditation":{
 			"prio":["Priest lol","EP/GP"],
-			"gp":"8",
+			"gp":"4",
 			"wowID":"30665"
 		},
 		"Glowing Breastplate of Truth":{
@@ -317,7 +317,7 @@
 			"wowID":"30104"
 		},
 		"Coral Band of the Revived":{
-			"prio":["Healers","EP/GP"],
+			"prio":["Seb","Kare","Fabi","Mazzo","Mommy","Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"30110"
 		},
@@ -337,7 +337,7 @@
 			"wowID":"30102"
 		},
 		"Lightfathom Scepter":{
-			"prio":["Healers","EP/GP"],
+			"prio":["Mommy","Mazzo","Fabi","Seb","Kare","Healers","EP/GP"],
 			"gp":"14",
 			"wowID":"30108"
 		},
