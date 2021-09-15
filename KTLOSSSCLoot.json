@@ -347,7 +347,7 @@
 			"wowID":"30621"
 		},
 		"Ring of Endless Coils":{
-			"prio":["Lock/Boom/Shadow/Fire Mage/Ele","EP/GP"],
+			"prio":["Boomkin>Lock/Shadow/Fire Mage/Ele","EP/GP"],
 			"gp":"6",
 			"wowID":"30109"
 		},
