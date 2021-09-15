@@ -307,7 +307,7 @@
 			"wowID":"30243"
 		},
 		"Belt of One-Hundred Deaths":{
-			"prio":["Dancheek", "Rogue/Enh/Ret/Warrior","EP/GP"],
+			"prio":["Dancheek(1)", "Rogue/Enh/Ret/Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"30106"
 		},
@@ -357,12 +357,12 @@
 			"wowID":"30111"
 		},
 		"Serpent Spine Longbow":{
-			"prio":["Hunters","EP/GP"],
+			"prio":["Chiron","Hunters","EP/GP"],
 			"gp":"14(Hunt) 6(Melee",
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
-			"prio":["Warlock","Mage","EP/GP"],
+			"prio":["Killmcpickle(1)","Warlock","Mage","EP/GP"],
 			"gp":"7",
 			"wowID":"30107"
 		}
