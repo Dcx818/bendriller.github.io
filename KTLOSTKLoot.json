@@ -66,7 +66,7 @@
 			"prio":["Aisli","Warrior/Enh/Ret/Feral/Tank","EP/GP"],
 		},
 		"Mindstorm Wristbands":{
-			"prio":["cloth dps>caster dps","EP/GP"],
+			"prio":["arcane mage", "cloth dps>caster dps","EP/GP"],
 			"gp":"6",
 			"wowID":"29918"
 		},
@@ -210,12 +210,12 @@
 			"wowID":"29966"
 		},
 		"Void Star Talisman":{
-			"prio":["Coxxy(1)","Black(2)","EP/GP"],
+			"prio":["Coxxy(1)","Black(2)", "Warlock PVPer","EP/GP"],
 			"gp":"6",
 			"wowID":"30449"
 		},
 		"Wand of the Forgotten Star":{
-			"prio":["Warlock/Spriest/Fire Mage","EP/GP"],
+			"prio":["Dill", "Destro Warlock/Spriest/Fire Mage","EP/GP"],
 			"gp":"6",
 			"wowID":"29982"
 		},
@@ -232,12 +232,12 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["Casters/Healers/Hunter/Enh","EP/GP"],
+			"prio":["Ele Shaman/Hunter>Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
 		"Chestguard of the Vanquished Hero":{
-			"prio":["Mages(2pc)>Surv Hunter>BM Hunters=Mage(4pc)>Warlock","EP/GP"],
+			"prio":["Mages(2pc)>Surv Hunter>BM Hunters>Mage/Warlock","EP/GP"],
 			"gp":"7",
 			"wowID":"30238"
 		},
