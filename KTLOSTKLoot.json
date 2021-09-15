@@ -48,7 +48,7 @@
 			"wowID":"29949"
 		},
 		"Band of Al'ar":{
-			"prio":["Spriest/Mage","EP/GP"],
+			"prio":["Spriest>Mage","EP/GP"],
 			"gp":"5",
 			"wowID":"29922"
 		},
@@ -63,7 +63,7 @@
 			"wowID":"29921"
 		},
 		"Gloves of the Searing Grip":{
-			"prio":["Warrior/Enh/Ret/Feral/Tank","EP/GP"],
+			"prio":["Aisli","Warrior/Enh/Ret/Feral/Tank","EP/GP"],
 			"gp":"6",
 			"wowID":"29947"
 		},
@@ -212,7 +212,7 @@
 			"wowID":"29966"
 		},
 		"Void Star Talisman":{
-			"prio":["Warlock PVP","EP/GP"],
+			"prio":["Coxxy(1)","Black(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"30449"
 		},
@@ -304,7 +304,7 @@
 			"wowID":"29994"
 		},
 		"The Nexus Key":{
-			"prio":["Arcane mage/Boomkin/Ele","EP/GP"],
+			"prio":["Microdoses(1)","Arcane mage/Boomkin/Ele","EP/GP"],
 			"gp":"14",
 			"wowID":"29988"
 		},
