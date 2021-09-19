@@ -64,6 +64,8 @@
 		},
 		"Gloves of the Searing Grip":{
 			"prio":["Aisli","Warrior/Enh/Ret/Feral/Tank","EP/GP"],
+			"gp": "5",
+			"wowID": "29947"
 		},
 		"Mindstorm Wristbands":{
 			"prio":["arcane mage", "cloth dps>caster dps","EP/GP"],
