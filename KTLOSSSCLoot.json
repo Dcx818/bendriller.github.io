@@ -292,7 +292,7 @@
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Bulba2set(2)", "Mage(2pc)","Non-Engi Warlocks","Hunters","EP/GP"],
+			"prio":["Micro 2 pc","Bulba 2pc","Mage (2pc)","Hunter 4 set","Non-Engi Warlocks","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
