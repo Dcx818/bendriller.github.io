@@ -234,7 +234,7 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["Ele Shaman/Hunter>Casters/Healers/Enh","EP/GP"],
+			"prio":["Licinia(2)/pending", "Ele Shaman/Hunter>Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
@@ -279,7 +279,7 @@
 			"wowID":"29996"
 		},
 		"Royal Cloak of the Sunstriders":{
-			"prio":["Spriest/Mage/Afflic Lock","EP/GP"],
+			"prio":["Gotosleep(2)", "Votelock(2)", "Spriest/Mage/Afflic Lock","EP/GP"],
 			"gp":"6",
 			"wowID":"29992"
 		},
@@ -304,7 +304,7 @@
 			"wowID":"29994"
 		},
 		"The Nexus Key":{
-			"prio":["Microdoses(1)", "Bulba(2)", "Arcane mage/Boomkin/Ele","EP/GP"],
+			"prio":["Microdoses(1)", "Bulba(2)", "Licinia(2)", "Arcane mage/Boomkin/Ele","EP/GP"],
 			"gp":"14",
 			"wowID":"29988"
 		},
