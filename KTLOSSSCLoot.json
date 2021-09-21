@@ -177,7 +177,7 @@
 	},
 	"Fathom-Lord Karathress":{
 		"Leggings of the Vanquished Hero":{
-			"prio":["Mage(2pc)>Warlock>Hunter","EP/GP"],
+			"prio":["Bulba2set(2)","Mage(2pc)>Warlock>Hunter","EP/GP"],
 			"gp":"7",
 			"wowID":"30247"
 		},
@@ -292,7 +292,7 @@
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Mage(2pc)","Non-Engi Warlocks","Hunters","EP/GP"],
+			"prio":["Bulba2set(2)", "Mage(2pc)","Non-Engi Warlocks","Hunters","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
@@ -362,7 +362,7 @@
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
-			"prio":["Killmcpickle(1)","Warlock","Mage","EP/GP"],
+			"prio":["Killmcpickle(1)","Rubsk(2)", "Blacklisted(2)", "Danchk(2)", "Warlock","Mage","EP/GP"],
 			"gp":"7",
 			"wowID":"30107"
 		}
