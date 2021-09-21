@@ -21,7 +21,7 @@
 			"wowID":"30048"
 		},
 		"Fathomstone":{
-			"prio":["Lock","EP/GP"],
+			"prio":["Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Lock","EP/GP"],
 			"gp":"5",
 			"wowID":"30049"
 		},
