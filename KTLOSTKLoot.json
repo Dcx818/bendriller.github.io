@@ -43,7 +43,7 @@
 	},
 	"Al'ar":{
 		"Arcanite Steam-Pistol":{
-			"prio":["Rogues","EP/GP"],
+			"prio":["Hunters if instead of bow (12 GP)","Rogues","EP/GP"],
 			"gp":"6",
 			"wowID":"29949"
 		},
@@ -53,7 +53,7 @@
 			"wowID":"29922"
 		},
 		"Claw of the Phoenix":{
-			"prio":["Hunters","EP/GP"],
+			"prio":["Chiron(1)","Bowflex(1)","Boondocks(2)","Headshot(2)","Mavan(2)","EP/GP"],
 			"gp":"8",
 			"wowID":"29948"
 		},
@@ -63,7 +63,7 @@
 			"wowID":"29921"
 		},
 		"Gloves of the Searing Grip":{
-			"prio":["Aisli(2)","Warrior/Enh/Ret/Feral/Tank","EP/GP"],
+			"prio":["Aisli(2)","Ret","Warrior/Enh","Feral/Tank","EP/GP"],
 			"gp": "5",
 			"wowID": "29947"
 		},
@@ -115,7 +115,7 @@
 			"wowID":"30248"
 		},
 		"Pauldrons of the Vanquished Defender":{
-			"prio":["Tank>Boomkin>Holy Priest>DPS>Healer","EP/GP"],
+			"prio":["Tank>DPS>Healer","EP/GP"],
 			"gp":"7",
 			"wowID":"30249"
 		},
@@ -177,7 +177,7 @@
 			"wowID":"29965"
 		},
 		"Greaves of the Bloodwarder":{
-			"prio":["Warrior DPS/Ret","EP/GP"],
+			"prio":["Warrior DPS/Ret","Warrior Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"29950"
 		},
@@ -207,7 +207,7 @@
 			"wowID":"29972"
 		},
 		"Vambracers of Ending":{
-			"prio":["Rogue/Hunter","EP/GP"],
+			"prio":["Hunter","Rogue","EP/GP"],
 			"gp":"6",
 			"wowID":"29966"
 		},
@@ -234,7 +234,7 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["Licinia(2)/pending", "Ele Shaman/Hunter>Casters/Healers/Enh","EP/GP"],
+			"prio":["Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
@@ -244,7 +244,7 @@
 			"wowID":"30238"
 		},
 		"Chestguard of the Vanquished Champion":{
-			"prio":["EP/GP"],
+			"prio":["Tank>DPS>Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"30236"
 		},
@@ -269,7 +269,7 @@
 			"wowID":"29987"
 		},
 		"Leggings of Murderous Intent":{
-			"prio":["Hunters/Rogues/Warrior","EP/GP"],
+			"prio":["Hunters/Warrior","Rogue","EP/GP"],
 			"gp":"7",
 			"wowID":"29995"
 		},
@@ -299,7 +299,7 @@
 			"wowID":"29989"
 		},
 		"Thalassian Wildercloak":{
-			"prio":["Hunter/Enh/Feral","EP/GP"],
+			"prio":["Hunter>Enh/Feral","EP/GP"],
 			"gp":"6",
 			"wowID":"29994"
 		},
@@ -309,7 +309,7 @@
 			"wowID":"29988"
 		},
 		"Twinblade of the Phoenix":{
-			"prio":["Warrior/Ret (PVE>PVP)","EP/GP"],
+			"prio":["Warrior>Ret (PVE>PVP)","EP/GP"],
 			"gp":"14",
 			"wowID":"29993"
 		}
