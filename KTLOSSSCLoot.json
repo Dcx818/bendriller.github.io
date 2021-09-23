@@ -292,7 +292,7 @@
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Micro 2 pc","Bulba 2pc","Mage (2pc)","Hunter 4 set","Non-Engi Warlocks","EP/GP"],
+			"prio":["Micro 2 pc(1)","Wayllo(2pc)","Mage(2pc)","Warlocks get the helm first unless a hunter needs it to finish the 4set.","Headshot 4 set(2)","Boondocks 4 set(2)","Non-Engi Warlocks","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
@@ -357,7 +357,7 @@
 			"wowID":"30111"
 		},
 		"Serpent Spine Longbow":{
-			"prio":["Bowflex","Chiron","EP/GP"],
+			"prio":["Chiron(1)","Boon(2)","Bowflex(1)","Hunter?","EP/GP"],
 			"gp":"14(Hunt) 6(Melee)",
 			"wowID":"30105"
 		},
