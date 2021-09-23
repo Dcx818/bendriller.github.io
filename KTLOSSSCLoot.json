@@ -56,7 +56,7 @@
 			"wowID":"30629"
 		},
 		"Shoulderpads of the Stranger":{
-			"prio":["Enh/Ret","Warrior/rogue","EP/GP"],
+			"prio":["Enh","Ret","Warrior/rogue","EP/GP"],
 			"gp":"6",
 			"wowID":"30055"
 		},
@@ -68,7 +68,7 @@
 	},
 	"The Lurker Below":{
 		"Ancestral Ring of Conquest":{
-			"prio":["Ret/Tanks","EP/GP"],
+			"prio":["Ret>Tanks","EP/GP"],
 			"gp":"5",
 			"wowID":"30061"
 		},
@@ -135,7 +135,7 @@
 			"wowID":"30241"
 		},
 		"Gloves of the Vanquished Champion":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["Tank>DPS>Healer","EP/GP"],
 			"gp":"7",
 			"wowID":"30239"
 		},
@@ -182,7 +182,7 @@
 			"wowID":"30247"
 		},
 		"Leggings of the Vanquished Champion":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["Tank>DPS>Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"30245"
 		},
@@ -297,7 +297,7 @@
 			"wowID":"30244"
 		},
 		"Helm of the Vanquished Champion":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["Tank>DPS>Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"30242"
 		},
@@ -307,7 +307,7 @@
 			"wowID":"30243"
 		},
 		"Belt of One-Hundred Deaths":{
-			"prio":["Dancheek(1)", "Rogue/Enh/Ret/Warrior","EP/GP"],
+			"prio":["Destain(1)", "Rogue/Enh/Ret/Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"30106"
 		},
@@ -358,7 +358,7 @@
 		},
 		"Serpent Spine Longbow":{
 			"prio":["Bowflex","Chiron","EP/GP"],
-			"gp":"14(Hunt) 6(Melee",
+			"gp":"14(Hunt) 6(Melee)",
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
