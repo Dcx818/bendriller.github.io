@@ -269,7 +269,7 @@
 			"wowID":"29987"
 		},
 		"Leggings of Murderous Intent":{
-			"prio":["Hunters>Warrior","Rogue","EP/GP"],
+			"prio":["Hunters/Warrior","Rogue","EP/GP"],
 			"gp":"7",
 			"wowID":"29995"
 		},
