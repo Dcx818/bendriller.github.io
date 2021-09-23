@@ -292,7 +292,7 @@
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Micro 2 pc(1)","Wayllo(2pc)","Mage (2pc)","Headshot 4 set(2)","Boondocks 4 set(2)","Non-Engi Warlocks","EP/GP"],
+			"prio":["Micro 2 pc(1)","Wayllo(2pc)","Mage(2pc)","Warlocks get the helm first unless a hunter needs it to finish the 4set.","Headshot 4 set(2)","Boondocks 4 set(2)","Non-Engi Warlocks","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
