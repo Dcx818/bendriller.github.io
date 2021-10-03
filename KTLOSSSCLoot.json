@@ -21,7 +21,7 @@
 			"wowID":"30048"
 		},
 		"Fathomstone":{
-			"prio":["Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Lock","EP/GP"],
+			"prio":["Coxxy(1)/Killmcpickle(1)", "Pexel(1)", "Demondred(1)", "Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Lock","EP/GP"],
 			"gp":"5",
 			"wowID":"30049"
 		},
@@ -46,7 +46,7 @@
 			"wowID":"30052"
 		},
 		"Robe of Hateful Echoes":{
-			"prio":["Caster DPS","EP/GP"],
+			"prio":["Cannie", "Caster DPS","EP/GP"],
 			"gp":"6",
 			"wowID":"30056"
 		},
@@ -88,7 +88,7 @@
 			"wowID":"30059"
 		},
 		"Cord of Screaming Terrors":{
-			"prio":["Caster DPS","EP/GP"],
+			"prio":["whichever lock gets belt of blasting last", "warlock", "Caster DPS","EP/GP"],
 			"gp":"5",
 			"wowID":"30064"
 		},
@@ -118,7 +118,7 @@
 			"wowID":"30066"
 		},
 		"The Seal of Danzalar":{
-			"prio":["Coxxy(1)","Black(2)","PVP Prio","EP/GP"],
+			"prio":["Coxxy(1)","Killmcpickle(1)", "Black(2)","PVP Prio","EP/GP"],
 			"gp":"5",
 			"wowID":"33054"
 		},
@@ -130,7 +130,7 @@
 	},
 	"Leotheras the Blind":{
 		"Gloves of the Vanquished Hero":{
-			"prio":["Mage(2pc)>Hunter>Lock","EP/GP"],
+			"prio":["Micro(1) until 2pc", "Raehn(1) until 2pc", "Prestige(1) until 2pc", "Mage(2pc)>Hunter>Lock","EP/GP"],
 			"gp":"6",
 			"wowID":"30241"
 		},
@@ -150,7 +150,7 @@
 			"wowID":"30097"
 		},
 		"Fang of the Leviathan":{
-			"prio":["Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Warlocks>Prot Pallys","EP/GP"],
+			"prio":["Coxxy(1)/Killmcpickle(1)", "Pexel(1)", "Demondred(1)", "Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Warlocks>Prot Pallys","EP/GP"],
 			"gp":"14",
 			"wowID":"30095"
 		},
@@ -177,7 +177,7 @@
 	},
 	"Fathom-Lord Karathress":{
 		"Leggings of the Vanquished Hero":{
-			"prio":["Bulba2set(2)","Mage(2pc)>Warlock>Hunter","EP/GP"],
+			"prio":["Micro(1) until 2pc", "Raehn(1) until 2pc","Prestige(1) until 2pc", "Mage(2pc)>Warlock>Hunter","EP/GP"],
 			"gp":"7",
 			"wowID":"30247"
 		},
@@ -292,7 +292,7 @@
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Micro 2 pc(1)","Wayllo(2pc)","Mage(2pc)","Warlocks get the helm first unless a hunter needs it to finish the 4set.","Headshot 4 set(2)","Boondocks 4 set(2)","Non-Engi Warlocks","EP/GP"],
+			"prio":["Micro(1) until 2pc", "Raehn(1) until 2pc","Prestige(1) until 2pc", "Wayllo(2pc)","Mage(2pc)","Warlocks get the helm first unless a hunter needs it to finish the 4set.","Headshot 4 set(2)","Boondocks 4 set(2)","Non-Engi Warlocks","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
@@ -347,7 +347,7 @@
 			"wowID":"30621"
 		},
 		"Ring of Endless Coils":{
-			"prio":["Wayllo(2)", "Blacklisted(2)", "Rubski(2)", "Boomkin>Lock/Shadow/Fire Mage/Ele","EP/GP"],
+			"prio":["Prestige(1)", "Raehn(1)", "Micro(1)", "Cannie(1)", "Wayllo(2)", "Blacklisted(2)", "Rubski(2)", "Boomkin>Lock/Shadow/Fire Mage/Ele","EP/GP"],
 			"gp":"6",
 			"wowID":"30109"
 		},
@@ -362,7 +362,7 @@
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
-			"prio":["Coxxy(1)/Killmcpickle(1)","Rubsk(2)", "Blacklisted(2)", "Danchk(2)", "Warlock","Mage","EP/GP"],
+			"prio":["Coxxy(1)/Killmcpickle(1) - whoever isn't getting sword/offhand", "Demondred(1)","Pexel(1)", "Rubsk(2)", "Blacklisted(2)", "Danchk(2)", "Warlock","Mage","EP/GP"],
 			"gp":"7",
 			"wowID":"30107"
 		}
