@@ -362,8 +362,8 @@
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
-			"prio":["Coxxy(1)/Killmcpickle(1) - whoever isn't getting sword/offhand", "Demondred(1)","Pexel(1)", "Rubsk(2)", "Blacklisted(2)", "Danchk(2)", "Warlock","Mage","EP/GP"],
-			"gp":"7",
+			"prio":["Coxxy(1)", "Killmcpickle(1)", "Demondred(1)", "Pexel(1)", "Rubski(2)", "Blacklisted(2)", "Danchk(2)", "Warlock","Mage","EP/GP"],
+			"gp":"14",
 			"wowID":"30107"
 		}
 	}
