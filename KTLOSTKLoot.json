@@ -206,7 +206,7 @@
 			"gp":"6",
 			"wowID":"29972"
 		},
-		"Vambracers of Ending":{
+		"Vambraces of Ending":{
 			"prio":["Hunter","Rogue","EP/GP"],
 			"gp":"6",
 			"wowID":"29966"
@@ -239,7 +239,7 @@
 			"wowID":"32405"
 		},
 		"Chestguard of the Vanquished Hero":{
-			"prio":["Micro(1) until 2pc", "Raehn(1) until 2pc","Prestige(1) until 2pc","Mages(2pc)>Surv Hunter>BM Hunters>Mage/Warlock","EP/GP"],
+			"prio":["Raehn(1) until 2pc","Mages(2pc)>Surv Hunter>BM Hunters>Mage/Warlock","EP/GP"],
 			"gp":"7",
 			"wowID":"30238"
 		},
@@ -274,7 +274,7 @@
 			"wowID":"29995"
 		},
 		"Rod of the Sun King":{
-			"prio":["ENH MH>Warrior OH=Enh OH>Rogue","EP/GP"],
+			"prio":["KimDriller","ENH MH>Warrior OH=Enh OH>Rogue","EP/GP"],
 			"gp":"14",
 			"wowID":"29996"
 		},
