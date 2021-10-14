@@ -254,7 +254,7 @@
 			"wowID":"30237"
 		},
 		"Band of the Ranger-General":{
-			"prio":["Warrior/Hunter>Rogue/Enh","EP/GP"],
+			"prio":["Hunter/DPS Warrior/Rogue/Enh","EP/GP"],
 			"gp":"6",
 			"wowID":"29997"
 		},
