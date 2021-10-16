@@ -36,7 +36,7 @@
 			"wowID":"30053"
 		},
 		"Ranger-General's Chestguard":{
-			"prio":["Hunter/Enh","EP/GP"],
+			"prio":["Hunter/Enh","headshots(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"30054"
 		},
@@ -312,7 +312,7 @@
 			"wowID":"30106"
 		},
 		"Cobra-Lash Boots":{
-			"prio":["Hunter","EP/GP"],
+			"prio":["Hunter","Boondockz(1)","Chiron(1)","Headshots(2)","Mavan(2)","EP/GP"],
 			"gp":"7",
 			"wowID":"30104"
 		},
@@ -357,7 +357,7 @@
 			"wowID":"30111"
 		},
 		"Serpent Spine Longbow":{
-			"prio":["Chiron(1)","Boon(2)","Bowflex(1)","Hunter?","EP/GP"],
+			"prio":["Chiron(1)","Boon(1)","Headshots(2)","Mavan(2)","Hunter?","EP/GP"],
 			"gp":"14(Hunt) 6(Melee)",
 			"wowID":"30105"
 		},
