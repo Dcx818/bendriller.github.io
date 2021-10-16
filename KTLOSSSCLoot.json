@@ -36,7 +36,7 @@
 			"wowID":"30053"
 		},
 		"Ranger-General's Chestguard":{
-			"prio":["Hunter/Enh","headshots(2)","EP/GP"],
+			"prio":["headshots(2)","Hunter/Enh","EP/GP"],
 			"gp":"6",
 			"wowID":"30054"
 		},
