@@ -53,7 +53,7 @@
 			"wowID":"29922"
 		},
 		"Claw of the Phoenix":{
-			"prio":["Chiron(1)","Bowflex(1)","Boondocks(2)","Headshot(2)","Mavan(2)","EP/GP"],
+			"prio":["Enh/","Boondockz(1)","Chiron(1)","Headshot(2)","EP/GP"],
 			"gp":"8",
 			"wowID":"29948"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"30448"
 		},
 		"Talon of the Phoenix":{
-			"prio":["Enhance,BM Hunters","EP/GP"],
+			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","EP/GP"],
 			"gp":"14",
 			"wowID":"32944"
 		},
@@ -207,7 +207,7 @@
 			"wowID":"29972"
 		},
 		"Vambraces of Ending":{
-			"prio":["Hunter","Rogue","EP/GP"],
+			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"29966"
 		},
@@ -254,7 +254,7 @@
 			"wowID":"30237"
 		},
 		"Band of the Ranger-General":{
-			"prio":["Warrior/Hunter>Rogue/Enh","EP/GP"],
+			"prio":["DPSWAR","Boondockz(1)","Mavan(2)","Headshot(2),"ENH/ROGUE","EP/GP"],
 			"gp":"6",
 			"wowID":"29997"
 		},
@@ -269,7 +269,7 @@
 			"wowID":"29987"
 		},
 		"Leggings of Murderous Intent":{
-			"prio":["Hunters/Warrior","Rogue","EP/GP"],
+			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","DPSWAR/ROGUE""EP/GP"],
 			"gp":"7",
 			"wowID":"29995"
 		},
