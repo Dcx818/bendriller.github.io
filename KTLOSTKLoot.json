@@ -254,7 +254,7 @@
 			"wowID":"30237"
 		},
 		"Band of the Ranger-General":{
-			"prio":["Boondockz(1)","Mavan(2)","Headshot(2),"ENH/DPSWAR/ROGUE","EP/GP"],
+			"prio":["DPSWAR","Boondockz(1)","Mavan(2)","Headshot(2),"ENH/ROGUE","EP/GP"],
 			"gp":"6",
 			"wowID":"29997"
 		},
