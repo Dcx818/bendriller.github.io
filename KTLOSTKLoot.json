@@ -234,7 +234,7 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["Snydicate","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
+			"prio":["Shamander","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
@@ -294,7 +294,7 @@
 			"wowID":"29991"
 		},
 		"Sunshower Light Cloak":{
-			"prio":["Kare","Sebela","Fabi","Mommy","Mazzo","EP/GP"],
+			"prio":["Kare","Sebela","TBD","Mommy","Mazzo","EP/GP"],
 			"gp":"6",
 			"wowID":"29989"
 		},
@@ -304,7 +304,7 @@
 			"wowID":"29994"
 		},
 		"The Nexus Key":{
-			"prio":["Microdoses(1)", "Bulba(2)", "Licinia(2)", "Arcane mage/Boomkin/Ele","EP/GP"],
+			"prio":["TBD", "TBD", "Licinia(2)", "Arcane mage/Boomkin/Ele","EP/GP"],
 			"gp":"14",
 			"wowID":"29988"
 		},
