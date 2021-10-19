@@ -254,7 +254,7 @@
 			"wowID":"30237"
 		},
 		"Band of the Ranger-General":{
-			"prio":["DPSWAR","Boondockz(1)","Mavan(2)","Headshot(2),"ENH/ROGUE","EP/GP"],
+			"prio":["Dillmcpickle","Boondockz(1)","Mavan(2)","Headshot(2)","ENH/ROGUE/DPS war","EP/GP"],
 			"gp":"6",
 			"wowID":"29997"
 		},
@@ -269,7 +269,7 @@
 			"wowID":"29987"
 		},
 		"Leggings of Murderous Intent":{
-			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","DPSWAR/ROGUE""EP/GP"],
+			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","DPS WAR","EP/GP"],
 			"gp":"7",
 			"wowID":"29995"
 		},
