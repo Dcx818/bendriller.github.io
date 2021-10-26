@@ -244,7 +244,7 @@
 			"wowID":"30238"
 		},
 		"Chestguard of the Vanquished Champion":{
-			"prio":["Tank>DPS>Healers","EP/GP"],
+			"prio":["Dardybee","Tank>DPS>Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"30236"
 		},
