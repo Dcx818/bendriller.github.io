@@ -182,7 +182,7 @@
 			"wowID":"30247"
 		},
 		"Leggings of the Vanquished Champion":{
-			"prio":["Tank>DPS>Healers","EP/GP"],
+			"prio":["Dardybee(1)","Blunts(2)","DPS>Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"30245"
 		},
@@ -297,7 +297,7 @@
 			"wowID":"30244"
 		},
 		"Helm of the Vanquished Champion":{
-			"prio":["Tank>DPS>Healers","EP/GP"],
+			"prio":["Dardybee(1)","EP/GP"],
 			"gp":"7",
 			"wowID":"30242"
 		},
